@@ -1,6 +1,6 @@
 # MCP Kandinsky
 
-MCP Kandinsky — это MCP (Model Context Protocol) сервер, предоставляющий инструмент для генерации изображений с помощью нейросети [Kandinsky](https://www.sberbank.com/promo/kandinsky/) через официальный API.
+MCP Kandinsky — это MCP (Model Context Protocol) сервер, предоставляющий инструмент для генерации изображений с помощью нейросети [Kandinsky](https://www.sberbank.com/promo/kandinsky/) через официальный API. В настоящее время по API доступна версия Kandinsky 3.1.
 
 ## Возможности
 - Генерация изображений по текстовому описанию (prompt)
